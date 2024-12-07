@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "93UN8F2T5D87.com.bupa.deeplink.DeeplinkTestApp",
+        "appID": "UN8F2T5D87.com.bupa.deeplink.DeeplinkTestApp",
         "paths": ["/test/*"]
       }
     ]
